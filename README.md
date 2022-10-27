@@ -8,6 +8,21 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+**I'm open to:**
+
+- Any collobration work
+- Cloud and/or DevOps projects
+
+**Skills:**
+
+- DevOps: Git/GitHub, GitLab, DevOps Monitoring, Alerting, Prometheus, Grafana, Docker, Docker Swarm, Ansible, Jenkins.
+- Project Management Methods : SCRUM.
+- Modelling Methods : Merise, UML/UML2.
+- Databases : SQL, MySQL, NoSQL, MongoDB.
+- Web Development: HTML, CSS, JavaScript, Mern Stack.
+- Programming Languages : Java, Python.
+- Others: Cloud Computing, Virtualization, Linux, Machine Learning, Data Mining, OpenStack, IOT.
+
 **Certificats:**
 
 - [Oracle Cloud Infrastructure Foundation Associate](https://drive.google.com/file/d/1HAvki9KM0K481mOMfZ1SPB0yv3mgiLKk/view?usp=sharing)
