@@ -17,7 +17,7 @@
 
 - DevOps: Git/GitHub, GitLab, DevOps Monitoring, Alerting, Prometheus, Grafana, Docker, Docker Swarm, Ansible, Jenkins.
 - Project Management Methods : SCRUM.
-- Modelling Methods : Merise, UML/UML2.
+- Modelling Methods :  UML/UML2.
 - Databases : SQL, MySQL, NoSQL, MongoDB.
 - Web Development: HTML, CSS, JavaScript, Mern Stack.
 - Programming Languages : Java, Python.
